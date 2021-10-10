@@ -1,0 +1,7 @@
+EvaVM
+
+compile with clang++ -std=c++17 -Wall -ggdb3 ./eva-vm.cpp -o eva-vm
+
+run with 
+
+./eva-vm
